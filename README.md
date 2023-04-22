@@ -1,6 +1,6 @@
 <h1>Hello, I'm Abdullahi!</h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity & IT Projects:</h2>
 
  - [Sentinel (SIEM) Configuration](https://github.com/abdullahali23...)
  - [Vulnerbablity Scanning with Nessus](https://github.com/abdullahali23...)
