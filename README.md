@@ -7,12 +7,13 @@
  - [Active Directory Home Lab (IAM)](https://github.com/abdullahali23...)
 
 
-<h2>🔭 Popular Articles</h2>
+<h2>🔭 Articles</h2>
+
 - [Walkthrough: Nessus Vulnerability Scanning Lab](https://www.medium.com/....)
--
 
 
-<h2>📺 Popular YouTube Videos</h2>
+
+<h2>📺 YouTube Videos</h2>
 
 - [Tutorial: Nessus Vulnerability Scanning Lab](https://www.youtube.com/....)
 
