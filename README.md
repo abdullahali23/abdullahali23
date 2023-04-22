@@ -9,7 +9,7 @@
 
 <h2>🔭 Articles</h2>
 
-- [Walkthrough: Nessus Vulnerability Scanning Lab](https://www.medium.com/....)
+- [Walkthrough: Nessus Vulnerability Scanning Lab](https://www.medium.com/@aali23/project-vulnerability-scanning-with-nessus-1dd2dca2ed79?source=friends_link&sk=c9e33279b67c553c8f0539eeefa5ba86)
 
 
 
