@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity & IT Projects:</h2>
 
- - [Sentinel (SIEM) Configuration](https://github.com/abdullahali23...)
  - [Vulnerbablity Scanning with Nessus](https://github.com/abdullahali23...)
+ - [Sentinel (SIEM) Configuration](https://github.com/abdullahali23...)
  - [Active Directory Home Lab (IAM)](https://github.com/abdullahali23...)
 
 
