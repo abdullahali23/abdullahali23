@@ -2,12 +2,19 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Vulnerbablity Scanning with Nessus](https://github.com/abdullahali23...)
+ - [Sentinel (SIEM) Configuration](https://github.com/abdullahali23...)
+ - [Vulnerbablity Scanning with Nessus](https://github.com/abdullahali23...)
+ - [Active Directory Home Lab (IAM)](https://github.com/abdullahali23...)
+
+
+<h2>🔭 Popular Articles</h2>
+- [Walkthrough: Nessus Vulnerability Scanning Lab](https://www.medium.com/....)
+-
 
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/....)
+- [Tutorial: Nessus Vulnerability Scanning Lab](https://www.youtube.com/....)
 
 
 <h2> 🤳 Connect with me:</h2>
