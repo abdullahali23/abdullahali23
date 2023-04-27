@@ -15,8 +15,6 @@
 
 <h2>📺 YouTube Videos</h2>
 
-- [Tutorial: Nessus Vulnerability Scanning Lab](https://www.youtube.com/....)
-
 
 <h2> 🤳 Connect with me:</h2>
 
