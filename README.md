@@ -10,7 +10,7 @@
 <h2>🔭 Articles</h2>
 
 - [Walkthrough: Nessus Vulnerability Scanning Lab](https://www.medium.com/@aali23/project-vulnerability-scanning-with-nessus-1dd2dca2ed79?source=friends_link&sk=c9e33279b67c553c8f0539eeefa5ba86)
-- [Walkthrough: Active Directory (IAM) Home Lab Setup](https://medium.com/@aali23/how-to-build-an-active-directory-iam-home-lab-using-virtualbox-60b79b94b300)
+- [Walkthrough: Active Directory (IAM) Home Lab Setup](https://medium.com/@aali23/how-to-build-an-active-directory-iam-home-lab-using-virtualbox-60b79b94b300?source=friends_link&sk=a1adc5832a0e4887f26c9a6b82daf7dd)
 
 
 
