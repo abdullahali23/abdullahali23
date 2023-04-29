@@ -5,6 +5,7 @@
  - [Vulnerbablity Scanning with Nessus](https://github.com/abdullahali23/VulnerabilityScanningLab)
  - [Active Directory Home Lab (IAM)](https://github.com/abdullahali23/ActiveDirectoryHomeLab)
  - [Elastic (SIEM) Configuration](https://github.com/abdullahali23...)
+ - [File Integrity Monitor](https://github.com/abdullahali23...)
 
 
 <h2>🔭 Articles</h2>
