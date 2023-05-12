@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity & IT Projects:</h2>
 
- - [Elastic (SIEM) Configuration](https://github.com/abdullahali23...)
+ - [Elastic (SIEM) Configuration](https://github.com/abdullahali23/ElasticSIEMLab)
  - [Vulnerbablity Scanning with Nessus](https://github.com/abdullahali23/VulnerabilityScanningLab)
  - [Active Directory Home Lab (IAM)](https://github.com/abdullahali23/ActiveDirectoryHomeLab)
  - [File Integrity Monitoring Tool (PowerShell)](https://github.com/abdullahali23/FileIntegrityMonitoringProject)
